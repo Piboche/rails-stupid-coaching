@@ -13,36 +13,3 @@
  *= require_tree .
  *= require_self
  */
-body {
-  margin-left: 10px;
-  padding: 10px;
-}
-
-div {
-  border-left: 8px solid gainsboro;
-}
-
-.question-div {
-  color: grey;
-  padding: 10px;
-}
-
-.answer-div {
-  font-style: bold;
-  background-color:cornsilk;
-  padding: 10px;
-}
-
-.btn-primary {
-  border-radius: 5px;
-}
-
-.link-info {
-  text-decoration: none;
-  color: #6ea4bf;
-  font-weight: 600;
-}
-
-.link-info:hover {
-  color: #6ea4bf
-}
